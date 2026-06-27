@@ -1,5 +1,5 @@
 name: undercover # 插件唯一识别名
 desc: 谁是卧底游戏插件，支持多人在线参与 # 插件简短描述
-version: v1.3.0 # 插件版本号
+version: v1.4.0 # 插件版本号
 author: BB0813 # 作者
 repo: https://github.com/miruosdasdasdsad/astrbot_undercover.git # 插件仓库地址
